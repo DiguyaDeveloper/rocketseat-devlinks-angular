@@ -1,28 +1,39 @@
-# DevlinksAngular
+<p align="center">
+  DevLinks - Versão em Angular
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+<p align="center">
+  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+</p>
 
-## Development server
+## 💻 Projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-## Code scaffolding
+## ✨ Tecnologia
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Javascript](https://www.javascript.com/)
 
-## Build
+## 🔖 Layout
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Você pode visualizar o layout do projeto através do link abaixo:
 
-## Running unit tests
+- [Layout](https://www.figma.com/community/file/1187422022288947321)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
-## Running end-to-end tests
+## 📝 License
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# rocketseat-devlinks-angular
+<p align="center">
+  Feito com 💜 by Rocketseat
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/rocketseat">👉 Participe da nossa comunidade 👈</a>
+</p>
